@@ -6,10 +6,6 @@ An interactive Power BI dashboard analyzing Walmart sales data (2011–2014) acr
 
 **Tools used:** Power BI Desktop, Power Query, DAX
 
-## Live Dashboard
-
-🔗 [View the interactive report on Power BI Service](#) <!-- replace # with your published link -->
-
 ## Files in this repo
 
 | File | Description |
